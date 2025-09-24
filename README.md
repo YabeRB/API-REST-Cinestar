@@ -1,6 +1,6 @@
 Tarea sobre hacer una API REST con NodeJS sobre CineStar en la plataforme Azure
 
-url espera para cines y peliculas: http://localhost:3000/api/
+URL esperada para cines y peliculas: http://localhost:3000/api/
 
 Evidencia del resultado con Thunder con el metodo GET:
 
